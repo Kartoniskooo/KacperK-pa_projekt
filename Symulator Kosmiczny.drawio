@@ -1,0 +1,100 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Strona-1" id="I8ubm8zMMMFbq30fuP_e">
+    <mxGraphModel dx="1404" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <UserObject label="Użytkownik" tooltip="Użytkownik&lt;div&gt;&lt;br&gt;&lt;/div&gt;" id="PMEkeoPI7nJpAsxOSJ4E-1">
+          <mxCell parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1">
+            <mxGeometry height="130" width="70" x="10" y="330" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="PMEkeoPI7nJpAsxOSJ4E-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
+          <mxGeometry height="110" width="270" x="270" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PMEkeoPI7nJpAsxOSJ4E-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Wyszukaj / wybierz ciało" vertex="1">
+          <mxGeometry height="60" width="115" x="347.5" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="PMEkeoPI7nJpAsxOSJ4E-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
+          <mxGeometry height="80" width="215" x="150" y="355" as="geometry" />
+        </mxCell>
+        <mxCell id="PMEkeoPI7nJpAsxOSJ4E-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
+          <mxGeometry height="80" width="215" x="430" y="355" as="geometry" />
+        </mxCell>
+        <mxCell id="PMEkeoPI7nJpAsxOSJ4E-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Przeglądaj encyklopedje" vertex="1">
+          <mxGeometry height="30" width="60" x="227.5" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="PMEkeoPI7nJpAsxOSJ4E-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Zarządzaj bazą danych planet" vertex="1">
+          <mxGeometry height="30" width="92" x="491.5" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="PMEkeoPI7nJpAsxOSJ4E-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
+          <mxGeometry height="80" width="215" x="150" y="545" as="geometry" />
+        </mxCell>
+        <mxCell id="PMEkeoPI7nJpAsxOSJ4E-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
+          <mxGeometry height="80" width="215" x="430" y="545" as="geometry" />
+        </mxCell>
+        <mxCell id="PMEkeoPI7nJpAsxOSJ4E-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Oblicz wagę" vertex="1">
+          <mxGeometry height="30" width="60" x="227.5" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="PMEkeoPI7nJpAsxOSJ4E-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Generuj raport" vertex="1">
+          <mxGeometry height="30" width="60" x="508" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="PMEkeoPI7nJpAsxOSJ4E-18" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="257" y="446" as="sourcePoint" />
+            <mxPoint x="257" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PMEkeoPI7nJpAsxOSJ4E-19" connectable="0" parent="PMEkeoPI7nJpAsxOSJ4E-18" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="extend" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PMEkeoPI7nJpAsxOSJ4E-22" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="540" as="sourcePoint" />
+            <mxPoint x="540" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PMEkeoPI7nJpAsxOSJ4E-23" connectable="0" parent="PMEkeoPI7nJpAsxOSJ4E-22" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="extend" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PMEkeoPI7nJpAsxOSJ4E-31" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="200" as="sourcePoint" />
+            <mxPoint x="260" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PMEkeoPI7nJpAsxOSJ4E-32" connectable="0" parent="PMEkeoPI7nJpAsxOSJ4E-31" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="include" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PMEkeoPI7nJpAsxOSJ4E-33" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="483.5" y="200" as="sourcePoint" />
+            <mxPoint x="540" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PMEkeoPI7nJpAsxOSJ4E-34" connectable="0" parent="PMEkeoPI7nJpAsxOSJ4E-33" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="include" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PMEkeoPI7nJpAsxOSJ4E-36" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="80" y="400" as="sourcePoint" />
+            <mxPoint x="140" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PMEkeoPI7nJpAsxOSJ4E-37" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Admin" vertex="1">
+          <mxGeometry height="130" width="70" x="720" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="PMEkeoPI7nJpAsxOSJ4E-38" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="720" y="400" as="sourcePoint" />
+            <mxPoint x="650" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PMEkeoPI7nJpAsxOSJ4E-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Symulator Kosmiczny" vertex="1">
+          <mxGeometry height="30" width="145" x="332.5" y="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
