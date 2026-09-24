@@ -13,7 +13,7 @@
     * System graficznie wyróżnia wybraną planetę (np. biała obwódka) i ładuje jej parametry do bocznego panelu encyklopedii.
 
 * **Główny przebieg zdarzeń:**
-    1.\ Użytkownik przegląda mapę i klika myszką w poruszający się obiekt graficzny (planetę).
+    1. Użytkownik przegląda mapę i klika myszką w poruszający się obiekt graficzny (planetę).
     2. System pobiera współrzędne kliknięcia myszy.
     3. System weryfikuje matematycznie odległość kursora od środków planet w celu wykrycia kolizji.
     4. System wysyła zapytanie SQL do lokalnej bazy danych o rekord powiązany z wybraną planetą.
