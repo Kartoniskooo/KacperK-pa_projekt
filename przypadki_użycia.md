@@ -1,7 +1,7 @@
 # Szczegółowe przypadki użycia
 ## System Interaktywnego Symulatora Układu Słonecznego
 
-### 1. Wyszukaj i wybierz ciało niebieskie
+### I. Wyszukaj i wybierz ciało niebieskie
 * **Aktor główny:** Użytkownik  
 * **Cel:** Odnalezienie w bazie danych i zaznaczenie na mapie orbitalnej konkretnej planety lub księżyca w celu poznania szczegółów.
 
@@ -29,7 +29,7 @@
 
 ---
 
-### 2. Oblicz kosmiczną wagę (Kalkulator)
+### II. Oblicz kosmiczną wagę (Kalkulator)
 * **Aktor główny:** Użytkownik  
 * **Cel:** Przeliczenie ziemskiej masy użytkownika na jego wagę na powierzchni wybranego ciała niebieskiego.
 
